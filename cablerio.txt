@@ -9,6 +9,7 @@ hdmi to minihdmi
 hdmi to microhdmi
 hdmi to displayport
 hdmi to minidisplayport
+female hdmi to minidisplayport microsoft dongle
 
 displayport to displayport x3
 displayport to minidisplayport
