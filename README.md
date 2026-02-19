@@ -1,1 +1,1 @@
-# col.inertiqa.com
+# listings.rnd-usr.com
