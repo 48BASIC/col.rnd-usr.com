@@ -1,4 +1,3 @@
-cablerio:
 jack triple to female rca composite
 jack triple to female rca component
 firewire psx2 to firewire psx2 x2
@@ -16,15 +15,17 @@ displayport to minidisplayport
 minidisplayport to minidisplayport
 displayport to dvi-d dual link
 
-dvi-d to hdmi
-dvi-d to dvi-d
-vga to vga
+dvi-d to hdmi male
+dvi-d single link to dvi-d single link
+vga male to vga male
 
-black male rca to black male rca
+master system rca male to rca male 
+master system rf male to rf female
+master system rca male to rf male
 male composite to male composite
 male s-video to female composite
 male s-video to female s-video
-euroconector to euroconector
+euroconector male to euroconector male
 
 trifasico x5
 usb-a to usb-b
